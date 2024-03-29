@@ -1,15 +1,15 @@
 # Machine-Learning Project - Diabetes-Detection-ML
     
 ## Objective
-This project focuses on **analyzing** the Kaggle "Pima Indians Diabetes Database" and **predicting** whether a patient has Diabetes or not. 
+This machine-learning challenge focuses on **analyzing** the Kaggle "Pima Indians Diabetes Database" and **predicting** whether a patient has Diabetes or not. 
 
 ## Context
-This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. Several constraints were placed on the selection of these instances from a larger database. In particular, all patients here are females at least 21 years old of Pima Indian heritage.
+The dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. Several constraints were placed on the selection of these instances from a larger database. In particular, all patients here are females at least 21 years old of Pima Indian heritage.
 
 ## Acknowledgements
 Smith, J.W., Everhart, J.E., Dickson, W.C., Knowler, W.C., & Johannes, R.S. (1988). Using the ADAP learning algorithm to forecast the onset of diabetes mellitus. In Proceedings of the Symposium on Computer Applications and Medical Care (pp. 261--265). IEEE Computer Society Press.
 
-## About this dataset
+## About the dataset
 The datasets consist of several medical predictor (independent) variables and one target (dependent) variable, Outcome. Independent variables include the number of pregnancies the patient has had, their BMI, insulin level, age, and so on. For the outcome class value 1 is interpreted as "tested positive for diabetes".
 
 |Column Name| Description|
@@ -25,8 +25,7 @@ The datasets consist of several medical predictor (independent) variables and on
 |Outcome|Class variable (0 or 1) |
 
 
-For more information about this challenge, click here: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
-
+More information about this database can be found here: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 
 ---
 
