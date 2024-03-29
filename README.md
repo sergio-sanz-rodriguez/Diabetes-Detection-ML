@@ -10,7 +10,7 @@ The dataset is originally from the National Institute of Diabetes and Digestive 
 Smith, J.W., Everhart, J.E., Dickson, W.C., Knowler, W.C., & Johannes, R.S. (1988). Using the ADAP learning algorithm to forecast the onset of diabetes mellitus. In Proceedings of the Symposium on Computer Applications and Medical Care (pp. 261--265). IEEE Computer Society Press.
 
 ## About the dataset
-The datasets consist of several medical predictor (independent) variables and one target (dependent) variable, Outcome. Independent variables include the number of pregnancies the patient has had, their BMI, insulin level, age, and so on. For the outcome class value 1 is interpreted as "tested positive for diabetes".
+The dataset consists of several medical predictor (independent) variables and one target (dependent) variable, Outcome. Independent variables include the number of pregnancies the patient has had, their BMI, insulin level, age, and so on. For the outcome class value 1 is interpreted as "tested positive for diabetes".
 
 |Column Name| Description|
 |:------------|:------------|
@@ -25,7 +25,7 @@ The datasets consist of several medical predictor (independent) variables and on
 |Outcome|Class variable (0 or 1) |
 
 
-More information about this database can be found here: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
+For more information about the dataset, click here: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 
 ---
 
