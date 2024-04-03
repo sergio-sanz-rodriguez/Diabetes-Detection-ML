@@ -1,4 +1,4 @@
-# Machine-Learning Project - Diabetes-Detection-ML
+# Machine-Learning Project - A Comprehensive Comparison of Machine-Learning Models for Diabetes Detection
     
 ## Objective
 This machine-learning challenge focuses on **analyzing** the Kaggle "Pima Indians Diabetes Database" and **predicting** whether a patient has Diabetes or not. 
